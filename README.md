@@ -47,6 +47,6 @@
 
 <a href="https://www.facebook.com/benisaadon" target="blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1024px-F_icon.svg.png"  alt= "https://www.facebook.com/benisaadon" height="35" width="40" /></a>
 
-<a href="https://www.instagram.com/benisaadon/benisaadon" target="blank"><img  src="https://mpng.subpng.com/20180508/jpq/kisspng-logo-computer-icons-clip-art-instagram-layout-5af1532e85e290.6197719415257649105484.jpg" alt="https://www.instagram.com/benisaadon/" height="35" width="40" /></a>
+<a href="https://www.instagram.com/benisaadon/" target="blank"><img  src="https://mpng.subpng.com/20180508/jpq/kisspng-logo-computer-icons-clip-art-instagram-layout-5af1532e85e290.6197719415257649105484.jpg" alt="https://www.instagram.com/benisaadon/" height="35" width="40" /></a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
