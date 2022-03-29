@@ -9,7 +9,7 @@
 - 📱 I make apps for Android
 - 🎓 I'm a Software engineer
 - 🛠️ I’m currently working as IT manager at **Amal educational network.**
-- 🔭 **Looking for a new job in the field of development**
+- 🔭 ** and I'm Looking for a new job in the field of development**
 - :octocat: All of my projects are available at <a href="https://github.com/benjamins1995?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/benjamins1995" height="30" width="40" /></a>
 
 <br><br/>
@@ -38,8 +38,15 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="40" height="40"/> </a><a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> </a> <a href="https://bitbucket.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
 </p>
 
+<br><br/>
+<br><br/>
 ## 💬 Connect with me
 
 <a href="https://www.linkedin.com/in/beni-saadon" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/beni-saadon" height="30" width="40" /></a>
+
+
+<a href="https://www.facebook.com/benisaadon" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1024px-F_icon.svg.png"  alt= "https://www.facebook.com/benisaadon" height="35" width="40" /></a>
+
+<a href="https://www.instagram.com/benisaadon/benisaadon" target="blank"><img align="center" src="https://mpng.subpng.com/20180508/jpq/kisspng-logo-computer-icons-clip-art-instagram-layout-5af1532e85e290.6197719415257649105484.jpg" alt="https://www.instagram.com/benisaadon/" height="35" width="40" /></a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
