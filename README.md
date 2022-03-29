@@ -42,7 +42,7 @@
 <br><br/>
 ## 💬 Connect with me
 
-<a href="https://www.linkedin.com/in/beni-saadon" target="blank"><img  src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/beni-saadon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/beni-saadon" target="blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/beni-saadon" height="30" width="40" /></a>
 
 
 <a href="https://www.facebook.com/benisaadon" target="blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1024px-F_icon.svg.png"  alt= "https://www.facebook.com/benisaadon" height="35" width="40" /></a>
