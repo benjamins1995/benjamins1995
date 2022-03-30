@@ -9,7 +9,7 @@
 - 📱 I make apps for Android
 - 🎓 I'm a Software engineer
 - 🛠️ I’m currently working as IT manager at **Amal educational network.**
-- 🔭 ** and I'm Looking for a new job in the field of development**
+- 🔭 **and I'm Looking for a new job in the field of development**
 - :octocat: All of my projects are available at <a href="https://github.com/benjamins1995?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/benjamins1995" height="30" width="40" /></a>
 
 <br><br/>
@@ -39,11 +39,13 @@
 </p>
 
 <br><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamins1995&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br><br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamins1995&show_icons=true&theme=tokyonight&hide=stars,prs)
 <br><br/>
 ## 💬 Connect with me
 
 <a href="https://www.linkedin.com/in/beni-saadon" target="blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/beni-saadon" height="35" width="45" /></a>
-
 
 <a href="https://www.facebook.com/benisaadon" target="blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1024px-F_icon.svg.png"  alt= "https://www.facebook.com/benisaadon" height="35" width="40" /></a>
 
