@@ -8,8 +8,8 @@
 - 🌐 I make apps for Web browsers
 - 📱 I make apps for Android
 - 🎓 I'm a Software engineer
-- 🛠️ I’m currently working as IT manager at **Amal educational network.**
-- 🔭 **and I'm Looking for a new job in the field of development**
+- 🛠️ I’m currently working as full-stack programmer in **TSG**
+- 🔭 **I am always looking for new and exciting opportunities**
 - :octocat: All of my projects are available at <a href="https://github.com/benjamins1995?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/benjamins1995" height="30" width="40" /></a>
 
 <br><br/>
