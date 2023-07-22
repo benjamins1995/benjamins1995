@@ -5,8 +5,8 @@
 ## 📖 About me
 
 - 💻 I'm a full-stack developer
-- 🌐 I make apps for Web browsers
-- 📱 I make apps for Android
+- 🌐 I make apps for Web browsers (react, angular)
+- 📱 I make apps for Android and Apple
 - 🎓 I'm a Software engineer
 - 🛠️ I’m currently working as full-stack programmer in **[TSG](https://www.tsgitsystems.com)**
 - 🔭 **I am always looking for new and exciting opportunities**
