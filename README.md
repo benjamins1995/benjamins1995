@@ -54,6 +54,9 @@
 
 <a href="https://www.facebook.com/benisaadon" target="blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1024px-F_icon.svg.png"  alt= "https://www.facebook.com/benisaadon" height="35" width="40" /></a>
 
-<a href="https://www.instagram.com/benisaadon/" target="blank"><img  src="https://mpng.subpng.com/20180508/jpq/kisspng-logo-computer-icons-clip-art-instagram-layout-5af1532e85e290.6197719415257649105484.jpg" alt="https://www.instagram.com/benisaadon/" height="35" width="40" /></a>
-
+<a href="https://www.instagram.com/benisaadon/" target="blank"><img  src="https://i.pinimg.com/736x/ff/5a/e7/ff5ae72f423c7a1a2e6daf347ff1b5e2.jpg" alt="https://www.instagram.com/benisaadon/" height="35" width="40" /></a>
+<br/>
+<figure><embed src="https://wakatime.com/share/@349dc3df-cdb8-4a3f-b12e-4effc80af188/f3e65d0f-dd10-47e8-9bf3-3b6e3b366e50.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@349dc3df-cdb8-4a3f-b12e-4effc80af188/377a226b-f054-4fc0-884e-34684de290c5.svg"></embed></figure>
+<br/>
 ![footer](https://capsule-render.vercel.app/api?section=footer)
