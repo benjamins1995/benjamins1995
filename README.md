@@ -1,22 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Hi%20👋,%20I'm%20Beni&fontSize=35&fontAlignY=32)
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" width="30" height="30"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" alt="banner"/></a>
 
-## 📖 About me
+## 📖 About Me
 
-- 💻 I'm a full-stack developer
-- 🌐 I make apps for Web browsers (react, angular)
-- 📱 I make apps for Android and Apple
-- 🎓 I'm a Software engineer
-- 🛠️ I’m currently working as full-stack programmer in **[TSG](https://www.tsgitsystems.com)**
-- 🔭 **I am always looking for new and exciting opportunities**
-- :octocat: All of my projects are available at <a href="https://github.com/benjamins1995?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/benjamins1995" height="30" width="40" /></a>
+- 🔭 Currently crafting **C4I & fintech micro‑services** at **[TSG](https://www.tsgitsystems.com)** (Angular 18 · .NET 7 · Node micro‑services)  
+- 📱 Native & cross‑platform leader — Kotlin / Jetpack Compose ↔ React Native TS  
+- 🌐 Creates blazing‑fast web apps with **Angular, React, RxJS, NgRx**  
+- 🧠 M.Sc. in progress (Streaming Algorithms, Big Data) · Deep Learning & Kubernetes enthusiast  
+- 🏆 Speaker @ **AngularIL** — “IndexedDB patterns for Offline‑First UX”  
+- 💬 Ask me about: real‑time data, offline sync, CI/CD, resilient WebSockets  
+- 🚀 Always looking for new and exciting opportunities  
+- :octocat: All of my projects are available on <a href="https://github.com/benjamins1995?tab=repositories" target="_blank">GitHub</a>  
 
-<br><br/>
+<br/><br/>
 
-<br><br/>
-
-## 👨‍💻 Languages and Tools
+## 👨‍💻 Languages and Tools
 
 ### My top skills
 
@@ -48,7 +47,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamins1995&show_icons=true&theme=tokyonight&hide=stars,prs)
 <br><br/>
 
-## 💬 Connect with me
+## 💬 Connect With Me
 
 <a href="https://www.linkedin.com/in/beni-saadon" target="blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/beni-saadon" height="35" width="45" /></a>
 
