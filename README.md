@@ -58,14 +58,5 @@
 
 <br><br/>
 
-## 💬 Connect With Me
-
-<a href="https://www.linkedin.com/in/beni-saadon" target="blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="35" width="45" /></a>
-
-<a href="https://www.facebook.com/benisaadon" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1024px-F_icon.svg.png" height="35" width="40" /></a>
-
-<a href="https://www.instagram.com/benisaadon/" target="blank"><img src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-395.jpg" height="35" width="40" /></a>
-
-<br/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
