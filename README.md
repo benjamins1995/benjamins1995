@@ -7,8 +7,8 @@
 - 🔭 Currently building a **confidential AI platform** focused on secure LLM integrations and MCP-based orchestration  
 - 🧠 Designed and implemented an MCP server exposing ~100 dynamic tools & widgets to LLM applications  
 - ⚡ Optimized large tool registries via staged loading & compression to improve performance and reliability  
-- 🌐 Full-stack AI systems engineer — React · TypeScript · Python · Node.js · Microservices  
-- 📱 Mobile engineer — React Native (real-time & telephony integrations with Twilio)  
+- 🌐 Full-stack AI systems engineer — React · Angular · TypeScript · Python · Node.js · .NET · Microservices  
+- 📱 Mobile engineer — React Native (real-time & telephony integrations with Twilio & Telnyx)  
 - ☁️ Cloud architecture & security — AWS VPC · IAM · CI/CD · Production debugging  
 - 🧪 Built 500+ automated QA tests in complex distributed systems  
 - 💬 Ask me about: LLM tool orchestration, micro-frontends, secure cloud systems, system design  
