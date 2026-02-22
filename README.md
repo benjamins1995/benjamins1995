@@ -4,6 +4,8 @@
 
 ## 📖 About Me
 
+I specialize in building secure AI orchestration platforms that connect LLM systems to real-world infrastructure — with strong emphasis on system design, performance optimization, and end-to-end ownership.
+
 - 🔭 Currently building a **confidential AI platform** focused on secure LLM integrations and MCP-based orchestration  
 - 🧠 Designed and implemented an MCP server exposing ~100 dynamic tools & widgets to LLM applications  
 - ⚡ Optimized large tool registries via staged loading & compression to improve performance and reliability  
@@ -57,6 +59,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamins1995&show_icons=true&theme=tokyonight&hide=stars,prs)
 
 <br><br/>
-
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
