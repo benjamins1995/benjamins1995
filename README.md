@@ -8,6 +8,9 @@ I build production-grade AI systems end-to-end — from idea to reliable launch.
 
 I specialize in **secure AI orchestration platforms** that connect **LLM applications** to real-world systems, with a strong focus on **system design**, **performance**, and **high-ownership delivery** (web + backend + mobile).
 
+I like roles where one engineer can own the full path — architecture → implementation → production reliability.
+
+
 - 🔭 Building a **confidential AI platform** focused on secure LLM integrations and **MCP-based orchestration**
 - 🧠 Designed and implemented an **MCP server** exposing ~**100 dynamic tools & widgets** to LLM applications
 - ⚡ Improved scalability by optimizing large tool registries using **staged loading & compression**
