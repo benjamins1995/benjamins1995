@@ -4,18 +4,21 @@
 
 ## 📖 About Me
 
-I specialize in building secure AI orchestration platforms that connect LLM systems to real-world infrastructure — with strong emphasis on system design, performance optimization, and end-to-end ownership.
+I build production-grade AI systems end-to-end — from idea to reliable launch.
 
-- 🔭 Currently building a **confidential AI platform** focused on secure LLM integrations and MCP-based orchestration  
-- 🧠 Designed and implemented an MCP server exposing ~100 dynamic tools & widgets to LLM applications  
-- ⚡ Optimized large tool registries via staged loading & compression to improve performance and reliability  
-- 🌐 Full-stack AI systems engineer — React · Angular · TypeScript · Python · Node.js · .NET · Microservices  
-- 📱 Mobile engineer — React Native (real-time & telephony integrations with Twilio & Telnyx)  
-- ☁️ Cloud architecture & security — AWS VPC · IAM · CI/CD · Production debugging  
-- 🧪 Built 500+ automated QA tests in complex distributed systems  
-- 💬 Ask me about: LLM tool orchestration, micro-frontends, secure cloud systems, system design  
-- 🚀 Open to high-impact AI platform and systems engineering opportunities  
-- :octocat: All of my projects are available on <a href="https://github.com/benjamins1995?tab=repositories" target="_blank">GitHub</a>  
+I specialize in **secure AI orchestration platforms** that connect **LLM applications** to real-world systems, with a strong focus on **system design**, **performance**, and **high-ownership delivery** (web + backend + mobile).
+
+- 🔭 Building a **confidential AI platform** focused on secure LLM integrations and **MCP-based orchestration**
+- 🧠 Designed and implemented an **MCP server** exposing ~**100 dynamic tools & widgets** to LLM applications
+- ⚡ Improved scalability by optimizing large tool registries using **staged loading & compression**
+- 🧩 Delivered **interactive in-chat workflows** with **dynamic UI modules** (micro-frontend style)
+- 🌐 Full-stack systems engineering: Web + Backend + APIs + Microservices
+- 📱 Mobile engineer — React Native (real-time & telephony integrations with Twilio & Telnyx)
+- ☁️ Cloud & security mindset — AWS VPC · IAM least privilege · CI/CD · production hardening & debugging
+- 🧪 Built **500+ automated QA tests** in complex distributed systems
+- 💬 Ask me about: tool orchestration, micro-frontends, secure cloud systems, performance, system design
+- 🚀 Open to high-impact AI full-stack / systems opportunities
+- :octocat: Projects & repositories: <a href="https://github.com/benjamins1995?tab=repositories" target="_blank">GitHub</a>
 
 <br/><br/>
 
