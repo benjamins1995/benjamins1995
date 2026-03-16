@@ -54,9 +54,6 @@ I like roles where one engineer can own the full path — architecture → imple
 
 <br><br/>
 
-![Visitor Count](https://profile-counter.glitch.me/{benjamins1995}/count.svg)
-
-<br><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamins1995&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
